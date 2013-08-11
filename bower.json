@@ -1,0 +1,9 @@
+{
+  "name": "PickPock",
+  "version": "0.0.1",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "latest",
+    "underscore-amd": "1.5.1"
+  }
+}
